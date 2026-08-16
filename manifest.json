@@ -1,6 +1,6 @@
 {
   "name": "Bar App",
-  "short_name": "Bar",
+  "short_name": "Resto",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#431AA2",
